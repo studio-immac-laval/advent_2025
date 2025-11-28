@@ -6,9 +6,9 @@
 
 | # | Défi | Exemple |
 | --- | --- | --- |
-| 1 | Afficher "Vive le vent..." caractère par caractère. | ![defi1](img/defi1.gif) |
-| 2 | Afficher "Vive le vent..." mot par mot en changeant de couleur à chaque fois. | ![defi2](img/defi2.gif) | 
-| 3 | Faire neiger des pixels et les entasser en bas (effet boule de neige ?). | ![defi3](img/defi3.gif) |
+| 1 | Afficher "Vive le vent..." caractère par caractère. | ![Jour 1](img/day01.gif) |
+| 2 | Afficher "Vive le vent..." mot par mot en changeant de couleur à chaque fois. | ![Jour 2](img/day02.gif) | 
+| 3 | Faire neiger des pixels et les entasser en bas (effet boule de neige ?). | ![Jour 3](img/day03.gif) |
 | 4 | Afficher des lignes de 3 et les décaler chaque ligne dans un sens différent |  |
 | 5 | Afficher un visage de Père Noël et zoomer dessus en le faisant tourner |  |
 | 6 | Afficher un Nyan Santa |  |
