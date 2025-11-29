@@ -1,7 +1,5 @@
 # Calendrier de l'Avent Pyxel 2025
 
-![calendrier de l'avent](illustration.png)
-
 ## Défis
 
 | # | Défi | Exemple |
