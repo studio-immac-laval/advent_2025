@@ -1,22 +1,20 @@
 # Calendrier de l'Avent Pyxel 2025
 
-![calendrier de l'avent](illustration.png)
-
 ## Défis
 
-| # | Défi | Exemple |
+| Jour | Défi | Exemple |
 | --- | --- | --- |
 | 1 | Afficher "Vive le vent..." caractère par caractère. | ![Jour 1](img/day01.gif) |
 | 2 | Afficher "Vive le vent..." mot par mot en changeant de couleur à chaque fois. | ![Jour 2](img/day02.gif) | 
 | 3 | Faire neiger des pixels et les entasser en bas (effet boule de neige ?). | ![Jour 3](img/day03.gif) |
-| 4 | Afficher des lignes de 3 et les décaler chaque ligne dans un sens différent |  |
-| 5 | Afficher un visage de Père Noël et zoomer dessus en le faisant tourner |  |
-| 6 | Afficher un Nyan Santa |  |
-| 7 | Afficher un Père Noël qui se déplace et rebondit sur les murs |  |
-| 8 | Cacher un Père Noël sous un fond noir et afficher un halo révélateur au survol de la souris | ![defi8](img/defi8.gif) |
+| 4 | Afficher des lignes de chiffres et les décaler chaque ligne dans un sens différent | ![Jour 4](img/day04.gif) |
+| 5 | Afficher un Père Noël et zoomer dessus en le faisant tourner | ![Jour 5](img/day05.gif) |
+| 6 | Afficher un Nyan Rudolf | ![Jour 6](img/day06.gif) |
+| 7 | Afficher un Rudolf qui se déplace en ligne droite et rebondit sur les murs |  |
+| 8 | Cacher un Père Noël sous un fond noir et afficher un halo révélateur au survol de la souris |  |
 | 9 | Afficher l'heure comme une pebble :  | ![pebble](https://ericmigi.com/assets/re-introducing-the-pebble-appstore-3-cleanshot_2025-10-08_at_22.09.51.gif) |
-| 10 |  |  |
-| 11 |  |  |
+| 10 | Afficher un carré qui rebondit |  |
+| 11 | Afficher "Joyeux Noel !" après un Konami Code |  |
 | 12 |  |  |
 | 13 |  |  |
 | 14 |  |  |
