@@ -10,8 +10,8 @@
 | 4 | Afficher des lignes de chiffres et les décaler chaque ligne dans un sens différent | ![Jour 4](img/day04.gif) |
 | 5 | Afficher un Père Noël et zoomer dessus en le faisant tourner | ![Jour 5](img/day05.gif) |
 | 6 | Afficher un Nyan Rudolf | ![Jour 6](img/day06.gif) |
-| 7 | Afficher un Rudolf qui se déplace en ligne droite et rebondit sur les murs |  |
-| 8 | Cacher un Père Noël sous un fond noir et afficher un halo révélateur au survol de la souris |  |
+| 7 | Afficher un Rudolf qui se déplace en ligne droite et rebondit sur les murs | ![Jour 7](img/day07.gif) |
+| 8 | Cacher un Père Noël sous un fond noir et afficher un halo révélateur au survol de la souris | ![Jour 8](img/day08.gif) |
 | 9 | Afficher l'heure comme une pebble :  | ![pebble](https://ericmigi.com/assets/re-introducing-the-pebble-appstore-3-cleanshot_2025-10-08_at_22.09.51.gif) |
 | 10 | Afficher un carré qui rebondit |  |
 | 11 | Afficher "Joyeux Noel !" après un Konami Code |  |
