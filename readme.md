@@ -17,6 +17,23 @@
 | [Jour 21]() | [Jour 22]() | [Jour 23]() | [Jour 24]() | [Jour 25]() |
 
 
+<table>
+    <tr>
+        <td>![Jour 1](img/day01.gif)</td>
+        <td>![Jour 2](img/day02.gif)</td>
+        <td>![Jour 3](img/day03.gif)</td>
+        <td>![Jour 4](img/day04.gif)</td>
+        <td>![Jour 5](img/day05.gif)</td>
+    </tr>
+    <tr>
+        <td>[Jour 1](days/day01.md)</td>
+        <td>[Jour 2](days/day02.md)</td>
+        <td>[Jour 3](days/day03.md)</td>
+        <td>[Jour 4](days/day04.md)</td>
+        <td>[Jour 5](days/day05.md)</td>
+    </tr>
+</table>
+
 ## Et pendant ce temps...
 
 ![Santa's waiting...](img/santa_waiting.png)
