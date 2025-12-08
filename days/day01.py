@@ -22,8 +22,9 @@ steps = 0
 def update() :
     global steps
 
-    # On compte les itérations
-    steps += 1 
+    # On compte une itération sur 2
+    if pyxel.frame_count % 2 == 0 :
+        steps += 1 
 
 def draw() :
     global steps, song
@@ -32,10 +33,9 @@ def draw() :
     pyxel.cls(1)
 
     line = 0
-
-    # Pour ralentir l'affichage, on n'affiche 
-    # un caractère supplémentaire qu'une itération sur deux
-    remainingChars = steps // 2
+    
+    # Une variable pour décompter les caractères qu'il nous reste
+    remainingChars = steps
     
     while remainingChars > 0 and line < len(song) :
         # Si la ligne actuelle ne contient pas assez de caractère

@@ -6,7 +6,8 @@ steps = 0
 
 def update() :
     global steps
-    steps += 1 
+    if pyxel.frame_count % 3 == 0 :
+        steps += 1 
 
 def draw() :
     global steps

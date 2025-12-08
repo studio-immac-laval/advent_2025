@@ -1,3 +1,20 @@
+# Jour 5
+
+![Défi](../img/day05.gif)
+
+## Défi
+
+Afficher un Père Noël et zoomer dessus en le faisant tourner.
+
+## Démarrer
+
+Pas de grosse difficulté, on apprend à utiliser le fichier de ressources et la fonction `pyxel.blt(x, y, img, u, v, w, h, [colkey], [rotate], [scale])` (et surtout les deux derniers paramètres 🤫).
+
+## Une solution
+
+🐍 [Voir le fichier](day05.py)
+
+```py
 import pyxel
 
 pyxel.init(128, 128)
@@ -34,3 +51,4 @@ def draw() :
     pyxel.blt(48, 48, 0, 0, 0, 32, 32, 3, rotate = rotation, scale = scale * 0.1)
 
 pyxel.run(update, draw)
+```

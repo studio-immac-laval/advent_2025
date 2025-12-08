@@ -10,7 +10,7 @@ pyxel.load('../advent.pyxres')
 # Placement de Santa et du coucou
 santaX = randint(10, 90)
 santaY = randint(20, 90)
-coucouX = (santaX + 12) if santaX < 48 else (santaX - 10)
+coucouX = (santaX + 12) if santaX < 48 else (santaX - 7)
 coucouY = santaY - 8
 
 def update() :
@@ -23,7 +23,7 @@ def draw() :
     pyxel.cls(9)
     
     # On dessine ensuite Santa
-    pyxel.blt(santaX, santaY, 0, 0, 0, 32, 32, 10)
+    pyxel.blt(santaX, santaY, 0, 0, 0, 32, 32, 3)
 
     # On dessine ensuite le coucou...
     pyxel.text(coucouX, coucouY, "coucou", 7)
