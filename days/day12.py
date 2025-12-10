@@ -1,17 +1,18 @@
 import pyxel
 
 pyxel.init(128, 128)
+pyxel.mouse(True)
 
 previous = []
 
 def update() :
     global previous
 
-    # On enregistre les positions précédentes
-    previous.append([pyxel.mouse_x, pyxel.mouse_y])
-
-    # On limite à 100
-    if len(previous) > 100 :
+    # On enregistre les positions précédentes si on clique
+    if pyxel.btn(pyxel.MOUSE_BUTTON_LEFT) :
+        previous.append([pyxel.mouse_x, pyxel.mouse_y])
+    # Onn efface quand on relâche
+    elif len(previous) > 0 :
         previous.pop(0)
     
 def draw() :

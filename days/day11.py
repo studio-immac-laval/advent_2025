@@ -31,13 +31,13 @@ def draw() :
             pyxel.blt(x, 31, 0, 0, 32, 7, 7, rotate = 0)
             x += 9
         elif konami[i] == pyxel.KEY_LEFT :
-            pyxel.blt(x, 31, 0, 0, 32, 7, 7, rotate = 90)
+            pyxel.blt(x, 31, 0, 0, 32, 7, 7, rotate = 270)
             x += 9
         elif konami[i] == pyxel.KEY_DOWN :
             pyxel.blt(x, 31, 0, 0, 32, 7, 7, rotate = 180)
             x += 9
         elif konami[i] == pyxel.KEY_RIGHT :
-            pyxel.blt(x, 31, 0, 0, 32, 7, 7, rotate = 270)
+            pyxel.blt(x, 31, 0, 0, 32, 7, 7, rotate = 90)
             x += 9
         elif konami[i] == pyxel.KEY_A :
             pyxel.blt(x, 30, 0, 8, 32, 8, 8)
