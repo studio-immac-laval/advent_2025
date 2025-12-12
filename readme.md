@@ -9,8 +9,8 @@
 | [Jour 1](days/day01.md) | [Jour 2](days/day02.md) | [Jour 3](days/day03.md) | [Jour 4](days/day04.md) | [Jour 5](days/day05.md) |
 | [![Jour 6](img/day06.gif)](days/day06.md) | [![Jour 7](img/day07.gif)](days/day07.md) | [![Jour 8](img/day08.gif)](days/day08.md) | [![Jour 9](img/day09.gif)](days/day09.md) | ![Jour ](img/day10.gif) |
 | [Jour 6](days/day06.md) | [Jour 7](days/day07.md) | [Jour 8](days/day08.md) | [Jour 9](days/day09.md) | [Jour 10](days/day10.md) |
-| [![Jour 11](img/day11.gif)](days/day11.md) | [![Jour 12](img/day12.gif)](days/day12.md) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) |
-| [Jour 11](days/day11.md) | [Jour 12](days/day12.md) | [Jour 13]() | [Jour 14]() | [Jour 15]() |
+| [![Jour 11](img/day11.gif)](days/day11.md) | [![Jour 12](img/day12.gif)](days/day12.md) | [![Jour 13](img/day13.gif)](days/day13.md) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) |
+| [Jour 11](days/day11.md) | [Jour 12](days/day12.md) | [Jour 13](days/day13.md) | [Jour 14]() | [Jour 15]() |
 | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) |
 | [Jour 16]() | [Jour 17]() | [Jour 18]() | [Jour 19]() | [Jour 20]() |
 | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) |
