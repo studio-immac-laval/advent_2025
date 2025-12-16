@@ -8,7 +8,7 @@ Créer un jeu du serpent (3/3) : une difficulté progressive ?
 
 ## Démarrer
 
-Proposons un système de niveau avec de plus en plus de pommes à récupérer, de plus en plus de rochers à éviter et une vitesse de déplacement qui augmente.
+Proposons un système de niveau avec de plus en plus de pommes à récupérer, de plus en plus de rochers à éviter, une vitesse de déplacement qui augmente et même une bordure !
 
 On utilise un dictionnaire pour stocker les informations de chaque niveau.
 
