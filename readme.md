@@ -11,8 +11,8 @@
 | [Jour 6](days/day06.md) | [Jour 7](days/day07.md) | [Jour 8](days/day08.md) | [Jour 9](days/day09.md) | [Jour 10](days/day10.md) |
 | [![Jour 11](img/day11.gif)](days/day11.md) | [![Jour 12](img/day12.gif)](days/day12.md) | [![Jour 13](img/day13.gif)](days/day13.md) | [![Jour 14](img/day14.gif)](days/day14.md) | [![Jour 15](img/day15.gif)](days/day15.md) |
 | [Jour 11](days/day11.md) | [Jour 12](days/day12.md) | [Jour 13](days/day13.md) | [Jour 14](days/day14.md) | [Jour 15](days/day15.md) |
-| ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) |
-| [Jour 16]() | [Jour 17]() | [Jour 18]() | [Jour 19]() | [Jour 20]() |
+| [![Jour 16](img/day16.gif)](days/day16.md) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) |
+| [Jour 15](days/day16.md) | [Jour 17]() | [Jour 18]() | [Jour 19]() | [Jour 20]() |
 | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) | ![Jour ](img/comingSoon.gif) |
 | [Jour 21]() | [Jour 22]() | [Jour 23]() | [Jour 24]() | [Jour 25]() |
 
