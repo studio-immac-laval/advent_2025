@@ -4,13 +4,13 @@
 
 ## Défi
 
-Afficher des lignes de chiffres et les décaler chaque ligne dans un sens différent.
+Créer un décor de pull moche rotatif.
 
 ⚠️ Désolé pour les épileptiques 🫨
 
 ## Démarrer
 
-Pas de grosse difficulté ici : afficher des lignes de chiffres et les décaler régulièrement.
+Pas de grosse difficulté ici : afficher des lignes de caractères et les décaler régulièrement.
 
 Il faut juste penser à afficher des caractères en dehors de l'écran 😉
 
