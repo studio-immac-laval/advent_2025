@@ -29,10 +29,10 @@ def draw() :
     pyxel.cls(0)
     
     # Affichage du fond
-    pyxel.blt(0, 0, 0, 0, 48, 128, 128)
+    pyxel.blt(0, 0, 1, 0, 0, 128, 128)
     
     # affichage du titre
-    pyxel.blt(0, steps / 2 - 40, 0, 0, 176, 128, 43, 7)
+    pyxel.blt(0, steps / 2 - 40, 1, 0, 128, 128, 43, 7)
 
     # Montée/descente du rideau
     for i in range(0, 118, 16) :
