@@ -34,6 +34,10 @@ def update() :
 def draw() :
     global score, start, obstacles
     pyxel.cls(1)
+    
+    # Sol
+    pyxel.line(0, 57, 128, 57, 0)
+    pyxel.rect(0, 58, 128, 6, 7)
 
     # Etoiles
     for [x, y] in stars :
@@ -50,14 +54,10 @@ def draw() :
     # Rudolf
     if start :
         if pyxel.frame_count % 10 < 5 :
-            pyxel.blt(5, 36, 0, 32, 0, 21, 21, 10)
+            pyxel.blt(5, 39, 0, 32, 0, 21, 21, 10)
         else :
-            pyxel.blt(5, 36, 0, 48, 24, 21, 21, 10)
+            pyxel.blt(5, 39, 0, 48, 24, 21, 21, 10)
     else :
-        pyxel.blt(5, 36, 0, 32, 0, 21, 21, 10)
-
-    # Sol
-    pyxel.line(0, 57, 128, 57, 0)
-    pyxel.rect(0, 58, 128, 6, 8)
+        pyxel.blt(5, 39, 0, 32, 0, 21, 21, 10)
 
 pyxel.run(update, draw)
