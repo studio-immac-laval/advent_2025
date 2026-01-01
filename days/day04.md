@@ -24,6 +24,7 @@ import pyxel
 pyxel.init(128, 128)
 
 steps = 0
+caracters = "<>*<>W-M"
 
 def update() :
     global steps
@@ -40,11 +41,10 @@ def draw() :
         # Caractère par caractère
         for x in range(33) :
 
-            # Une ligne sur deux on recule/avance de 0 à 4 pixels à chaque étape
             pyxel.text(
-                -4 + x * 4 + ((-1 * steps % 5) if y % 2 == 0 else (steps % 5)), 
+                -4 + x * 4 + ((-1 * steps % 5) if y % 2 == 0 else (steps % 5)), # Une ligne sur deux on recule/avance de 0 à 4 pixels à chaque étape
                  1 + y * 6, 
-                 str(y % 10), 
+                 caracters[y % len(caracters)], 
                  7
             )
 
