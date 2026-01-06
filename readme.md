@@ -13,8 +13,8 @@
 | [Jour 11](days/day11.md) | [Jour 12](days/day12.md) | [Jour 13](days/day13.md) | [Jour 14](days/day14.md) | [Jour 15](days/day15.md) |
 | [![Jour 16](img/day16.gif)](days/day16.md) | [![Jour 17](img/day17.gif)](days/day17.md) | [![Jour 18](img/day18.gif)](days/day18.md) | [![Jour 19](img/day19.gif)](days/day19.md) | [![Jour 20](img/day20.gif)](days/day20.md) |
 | [Jour 16](days/day16.md) | [Jour 17](days/day17.md) | [Jour 18](days/day18.md) | [Jour 19](days/day19.md) | [Jour 20](days/day20.md) |
-| [![Jour 21](img/day21.gif)](days/day21.md) | [![Jour 22](img/day22.gif)](days/day22.md) | [![Jour 23](img/day23.gif)](days/day23.md) | [![Jour 24](img/day24.gif)](days/day24.md) | ![Jour ](img/comingSoon.gif) |
-| [Jour 21](days/day21.md) | [Jour 22](days/day22.md) | [Jour 23](days/day23.md) | [Jour 24](days/day24.md) | [Jour 25]() |
+| [![Jour 21](img/day21.gif)](days/day21.md) | [![Jour 22](img/day22.gif)](days/day22.md) | [![Jour 23](img/day23.gif)](days/day23.md) | [![Jour 24](img/day24.gif)](days/day24.md) | [![Jour 25](img/day25.gif)](days/day25.md) |
+| [Jour 21](days/day21.md) | [Jour 22](days/day22.md) | [Jour 23](days/day23.md) | [Jour 24](days/day24.md) | [Jour 25](days/day25.md) |
 
 ## Et pendant ce temps...
 
