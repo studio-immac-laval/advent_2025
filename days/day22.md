@@ -4,7 +4,7 @@
 
 ## Défi
 
-Créons un jeu de [Chrome Dino](https://en.wikipedia.org/wiki/Dinosaur_Game) avec Rudolf ! (2/3)
+Créons un jeu de [Chrome Dino](https://en.wikipedia.org/wiki/Dinosaur_Game) avec Rudolf ! (2/4)
 
 ## Démarrer
 
