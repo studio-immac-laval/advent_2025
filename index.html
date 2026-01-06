@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Calendrier de l'Avent 2025</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        main {
+            margin: 0 auto;
+            display: block;
+            position: relative;
+            width: 100vh;
+        }
+        .flip-card {
+            background-color: transparent;
+            width : 20vh;
+            height : 20vh;
+            perspective: 1000px;
+            float: left;
+            cursor: zoom-in;
+        }
+        .clearfix {
+            clear: both;
+        }
+        .flip-card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.8s;
+            transform-style: preserve-3d;
+        }
+        .flip-card:hover .flip-card-inner {
+            transform: rotateY(180deg);
+        }
+        .flip-card-front,
+        .flip-card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .flip-card-front {
+            background-color: #bbb;
+            color: black;
+        }
+        .flip-card-front img {
+            width : 20vh;
+        }
+        .flip-card-back {
+            background-color: #eee;
+            color: #000;
+            transform: rotateY(180deg);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .flip-card-back p {
+            margin-top: 0;
+            padding: 0 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day01.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 1</h2>
+                    <p>Afficher "Vive le vent..." caractère par caractère.</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day02.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 2</h2>
+                    <p>Afficher "Vive le vent..." mot par mot en changeant de couleur à chaque fois.</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day03.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 3</h2>
+                    <p>Faire neiger des pixels et les entasser en bas.</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day04.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 4</h2>
+                    <p>Créer un décor de pull moche rotatif.</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day05.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 5</h2>
+                    <p>Afficher un Père Noël qui fait du trampoline !</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day06.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 6</h2>
+                    <p>Afficher un Nyan Rudolf !</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day07.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 7</h2>
+                    <p>Afficher un Rudolf qui se déplace en ligne droite et rebondit sur les murs.</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day08.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 8</h2>
+                    <p>Cacher un Père Noël sous un fond noir et afficher un halo révélateur au survol de la souris.</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day09.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 9</h2>
+                    <p>Afficher l'heure comme une montre pebble (😱 suuuuuuper dur !).</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day10.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 10</h2>
+                    <p>Afficher un carré qui rebondit.</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day11.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 11</h2>
+                    <p>Afficher "Joyeux Noel !" après un Konami Code</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day12.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 12</h2>
+                    <p>Dessiner à la souris une trace éphémère.</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day13.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 13</h2>
+                    <p>Créer un jeu du serpent (1/3)</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day14.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 14</h2>
+                    <p>Créer un jeu du serpent (2/3)</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day15.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 15</h2>
+                    <p>Créer un jeu du serpent (3/3)</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day16.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 16</h2>
+                    <p>Créer une ouverture à la Super Mario 3</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day17.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 17</h2>
+                    <p>Créer un jeu de labyrinthe (1/2).</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day18.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 18</h2>
+                    <p>Créer un jeu de labyrinthe (2/2).</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day19.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 19</h2>
+                    <p>Illustrer une conversation entre le Père Noël, Rudolf et ses lutins à la manière d'un RPG.</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day20.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 20</h2>
+                    <p>Aider le Père Noël à faire sa tournée !</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day21.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 21</h2>
+                    <p>Créons un jeu de Chrome Dino avec Rudolf ! (1/4)</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day22.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 22</h2>
+                    <p>Créons un jeu de Chrome Dino avec Rudolf ! (2/4)</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day23.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 23</h2>
+                    <p>Créons un jeu de Chrome Dino avec Rudolf ! (3/4)</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day24.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 24</h2>
+                    <p>Créons un jeu de Chrome Dino avec Rudolf ! (4/4)</p>
+                </div>
+            </div>
+        </div>
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="img/day25.gif">
+                </div>
+                <div class="flip-card-back">
+                    <h2>Jour 25</h2>
+                    <p>Joyeux Noël !!!</p>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
